@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/OkhttpLemonDemo.iml" filepath="$PROJECT_DIR$/OkhttpLemonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop-OkHttpLemonDemo.iml" filepath="$PROJECT_DIR$/Desktop-OkHttpLemonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpLemonDemo.iml" filepath="$PROJECT_DIR$/OkHttpLemonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/OkHttpLemonDemo-app.iml" filepath="$PROJECT_DIR$/app/OkHttpLemonDemo-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
